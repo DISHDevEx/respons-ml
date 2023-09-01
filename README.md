@@ -1,4 +1,4 @@
-# FONPR: Automated 5G Network Control and Continuous Improvement
+# FONPR: First Open Network Pattern Reactors. Reinforcement Learning agents for fine tuning telecom networks.
 
 ## Quick Deployment 
 DQN agent deployment:
